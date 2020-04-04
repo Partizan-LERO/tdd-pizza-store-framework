@@ -1,4 +1,4 @@
-# Simple framework for creating pizza-like application
+# A simple framework for creating pizza-like application
 
 How to run:
 
