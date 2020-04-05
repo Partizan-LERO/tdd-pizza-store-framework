@@ -91,7 +91,7 @@ class GetFreeProductRule implements Rule
                         $this->giftInCampaign->setPrice(0);
                         $gift = new CartItem($this->giftInCampaign);
                         $cart->add($gift);
-                        break;
+                        break 2;
                     }
                 }
             }
